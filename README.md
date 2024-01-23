@@ -6,7 +6,7 @@ This repository contains a series of projects to help you progress from basic to
 ## Project List
 
 1. **Blink LED**
-   - [Blink LED](Blink LED/readme.md)
+   - [[Blink LED](https://github.com/senpaiatwork/ICW_Code/tree/main/Blink%20LED)](Blink LED)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
