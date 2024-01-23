@@ -10,7 +10,7 @@ This repository contains a series of projects to help you progress from basic to
 
 2. **Project Name 2**
    - Description: Brief description of the project.
-   - [Link to Project 2](project2/readme.md)
+   - [Link to Project 2](Blink LED/README.md)
 
 3. **Project Name 3**
    - Description: Brief description of the project.
