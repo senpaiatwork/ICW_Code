@@ -6,7 +6,7 @@ This repository contains a series of projects to help you progress from basic to
 ## Project List
 
 1. **Blink LED**
-   - [Blink LED](project1/readme.md)
+   - [Blink LED](Blink LED/readme.md)
 
 2. **Project Name 2**
    - Description: Brief description of the project.
