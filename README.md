@@ -1,11 +1,11 @@
 # Mplab Basic to Advance
+##CONTROLLER :  dsPIC33CH128MP508 devlopment bord
 
 This repository contains a series of projects to help you progress from basic to advanced usage of MPLAB.
 
 ## Project List
 
 1. **Blink LED**
-   - Description: Brief description of the project.
    - [https://github.com/senpaiatwork/ICW_Code/tree/main/Blink%20LED](project1/readme.md)
 
 2. **Project Name 2**
